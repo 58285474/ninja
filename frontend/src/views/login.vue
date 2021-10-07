@@ -1,6 +1,8 @@
 <template>
   <div class="content">
     <div class="card">
+    <div class="card-header">
+      </div>
       <div class="card-footet"></div>
     </div>
 
