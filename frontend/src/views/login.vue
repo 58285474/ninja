@@ -8,7 +8,7 @@
       </div>
       <div class="card-body text-base leading-6">
         <p>建议京东账户绑定微信以保证提现能到账。</p>
-        <b>有啥问题？<a style="" href="http://wpa.qq.com/msgrd?v=3&uin=1052672227&site=qq&menu=yes" target="_blank" id="jd">联系我</a>。</b>
+        <b>有啥问题？&emsp;<a style="" href="http://wpa.qq.com/msgrd?v=3&uin=1052672227&site=qq&menu=yes" target="_blank" id="jd">联系我</a></b>
       </div>
       <div class="card-footet"></div>
     </div>
