@@ -18,10 +18,11 @@
       <div class="card-header">
           <p class="card-title">WSCK 录入</p>
             <div class="card-body text-base leading-6">
-              <b>wskey有效期长达一年，请联系管理员确认使用，慎重！</b>
+              <b>wskey有效期长达一年，请联系东东确认使用，慎重！</b>
               <p>删WSCK在下方。</p>
               <b>也可以保持pin不变，随意更改wskey，等同于删除WSCK。改密码解决一切CK泄露问题。</b>
               <p>用户须手动提取pin和wskey，格式如："pin=xxxxxx;wskey=xxxxxxxxxx;"。</p>
+              <p class="card-subtitle">——安卓用户使用HttpCanary抓包 </p>
               <p class="card-subtitle">——IOS用户手机抓包APP&emsp;<a style="" href="https://apps.apple.com/cn/app/stream/id1312141691" target="_blank" id="downiOSApp">点击跳转安装</a> </p>
               <p class="card-subtitle">——在api.m.jd.com域名下找POST请求大概率能找到wskey。</p>
               <p class="card-subtitle">wskey在录入后立马上线，系统会在指定时间检查wskey，有效则自动转换出cookie登录</p>
