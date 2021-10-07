@@ -7,7 +7,7 @@
         </div>
       </div>
       <div class="card-body text-base leading-6">
-        <p>建议京东账户绑定微信以保证提现能到账。</p>
+        <p>建议京东账户绑定微信以保证提现能到账</p>
         <b>有啥问题？&emsp;<a style="" href="http://wpa.qq.com/msgrd?v=3&uin=1052672227&site=qq&menu=yes" target="_blank" id="jd">联系我</a></b>
       </div>
       <div class="card-footet"></div>
@@ -45,13 +45,13 @@
         </div>
         <div class="card-body text-base leading-6">
           <b>wskey有效期长达一年</b>
-          <p>用户须手动提取pin和wskey，格式如："pt_pin=xxxxxx;wskey=xxxxxxxxxx;"。</p>
-          <p class="card-subtitle">——安卓用户使用HttpCanary抓包 </p>
+          <p>用户须手动提取pin和wskey，格式如："pt_pin=xxxxxx;wskey=xxxxxxxxxx;"</p>
+          <p class="card-subtitle">——安卓用户使用HttpCanary抓包</p>
           <p class="card-subtitle">——IOS用户手机抓包APP&emsp;<a style="" href="https://apps.apple.com/cn/app/stream/id1312141691" target="_blank" id="downiOSApp">点击跳转安装</a> </p>
-          <p class="card-subtitle">——在api.m.jd.com域名下找POST请求大概率能找到wskey。</p>
+          <p class="card-subtitle">——在api.m.jd.com域名下找POST请求大概率能找到wskey</p>
           <p class="card-subtitle">wskey在录入后立马上线，系统会在指定时间检查wskey，有效则自动转换出cookie登录</p>
           <p class="card-subtitle">cookie失效后，也会在系统设定的指定时间内自动转换出新的cookie，实现一次录入长期有效</p>
-          <b>wskey会随着京东app的退出登录和更改密码而失效，清楚app数据或者卸载软件不会影响。</b>
+          <b>wskey会随着京东app的退出登录和更改密码而失效，清楚app数据或者卸载软件不会影响</b>
         </div>
         <span class="card-subtitle"> 请在下方输入您的 WSCK  </span>
       </div>
